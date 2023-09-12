@@ -12,6 +12,7 @@ html {
   align-items: center;
   height: 100vh;
   flex-direction: column;
+  position: relative;
 }
 
 .video-wrapper h3 {

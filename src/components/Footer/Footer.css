@@ -90,3 +90,14 @@
 .songs marquee {
   width: calc(100% - 45px);
 }
+
+.reels-footer {
+  position: absolute;
+  width: 100%;
+}
+
+@media only screen and (max-width: 600px) {
+  .reels-footer {
+    bottom: 60px;
+  }
+}
